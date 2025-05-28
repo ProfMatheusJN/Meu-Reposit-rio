@@ -1,1 +1,18 @@
+<!DOCTYPE html>
 
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Meu Portifolio</title>>
+</head>
+
+<body>
+    <img src="img/avatar-perfil.png" alt="avatar do Matheus" srcset="">
+    <p>Eu sou Matheus_</p>
+    <h1>Eu ensino programação</h1>
+    <p>Sou professor de matemática e orogramação.
+        Ensino linguagem de programação para o ensino médio.
+    </p>
+</body>
